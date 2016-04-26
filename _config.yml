@@ -1,0 +1,28 @@
+name: The Theory of Everything
+favicon: null
+layout_spectrum: 0.03640470467507839
+typography_spectrum: 0.28824681183323264
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.9506356532219797
+  lightness: 0.8040310156065971
+  saturation: 0.6720557198859751
+  rhythmicContrast: 0.15372863854281604
+purpose: []
